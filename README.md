@@ -46,7 +46,7 @@ python -m pip install -r requirements.txt
 
 ## Input data
 
-The input data are not included in this repository; please download the dataset separately and place the required files in the corresponding data/ folders before running the code.
+The input data are available on https://figshare.com/articles/dataset/_b_A_dataset_linking_spatial-ability_assessments_with_eye-tracking_data_from_geospatial_tasks_b_/34735188 and are not included in this repository. Before running the code, download the dataset and place the required files in the corresponding data/ folders.
 
 ## Running the analyses
 
